@@ -1,7 +1,5 @@
 download ⬇️⬇️⬇️
-[text](https://github.com/MadHeo/poe2-item-filter/tags)
-
-# ===============================================================
+https://github.com/MadHeo/poe2-item-filter/tags
 
 # ===============================================================
 
